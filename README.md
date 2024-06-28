@@ -45,13 +45,9 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 
 11. Investigar ¿Qué es el pip y porque lo actualizamos?
 
-    Respuesta: Pip es una herramienta esencial para cualquier desarrollador de Python. Permite instalar, actualizar y administrar paquetes de software con facilidad, lo que a su vez facilita el desarrollo y la distribución de aplicaciones y proyectos de Python.
-
-               Además, pip hace que sea fácil compartir código y colaborar con otros desarrolladores en la comunidad de Python.
-
-               Lo actualizamos para hacer el correcto mantenimiento de paquetes de terceros.
-
-    
+Respuesta: Pip es una herramienta esencial para cualquier desarrollador de Python. Permite instalar, actualizar y administrar paquetes de software con facilidad, lo que a su vez facilita el desarrollo y la distribución de aplicaciones y proyectos de Python.
+Además, pip hace que sea fácil compartir código y colaborar con otros desarrolladores en la comunidad de Python.
+Lo actualizamos para hacer el correcto mantenimiento de paquetes de terceros.
 
 13. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 
